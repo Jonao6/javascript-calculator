@@ -1,0 +1,16 @@
+.wrapper {
+  background-image: linear-gradient( 109.6deg,  rgba(14,11,56,1) 11.2%, rgba(239,37,37,1) 91.1% );
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+div {
+  display: block;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
